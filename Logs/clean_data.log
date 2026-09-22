@@ -1,0 +1,17 @@
+2026-09-22 11:49:24,728 - INFO - WordNet corpus is already available.
+2026-09-22 11:49:24,778 - INFO - Started data cleaning. shape = (8790, 11)
+2026-09-22 11:49:25,753 - INFO - Succesfully cleaned data. new dataframe shape = (8783, 3)
+2026-09-22 11:49:25,753 - INFO - 
+Total time taken 0.016256225109100342 minutes
+2026-09-22 11:49:25,771 - INFO - 
+  show_id                             title                                               tags
+0      s1              Dick Johnson Is Dead  a her father nears the end of his life filmmak...
+1      s3                         Ganglands  to protect his family from a powerful drug lor...
+2      s6                     Midnight Mass  the arrival of a charismatic young priest brin...
+3     s14  Confessions of an Invisible Girl  when the clever but socially awkward tet join ...
+4      s8                           Sankofa  on a photo shoot in ghana an american model sl...
+2026-09-22 11:49:25,828 - INFO - Successfully ingested recommendation_df in database
+2026-09-22 11:49:25,828 - INFO - Started Creating similarity Vectors
+2026-09-22 11:49:29,473 - INFO - Successfully created similarity vectors
+2026-09-22 11:49:29,473 - INFO - 
+Total time taken 0.06074952284495036 minutes

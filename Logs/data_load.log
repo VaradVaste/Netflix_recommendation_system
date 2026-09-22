@@ -1,0 +1,8 @@
+2026-09-22 11:25:02,217 — INFO — Ingesting Dataset.csv into database
+2026-09-22 11:25:02,426 — INFO — Successfully ingested Dataset in database
+2026-09-22 11:25:02,426 — INFO — ========== Ingestion Completed ==========
+2026-09-22 11:25:02,428 — INFO — 
+Total Time taken by load_raw_data: 0.0053558746973673505 minutes
+2026-09-22 11:25:02,537 — INFO — Ingesting Dataset.csv into database
+2026-09-22 11:25:02,744 — INFO — Successfully ingested Dataset in database
+2026-09-22 11:25:02,744 — INFO — ========== Ingestion Completed ==========
