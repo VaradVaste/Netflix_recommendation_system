@@ -80,5 +80,5 @@ clean_data.py              # Cleans the dataset and loads into sqlite3 database
 
 Now run,
 ```bash
-streamlit run show_recommend.py
+streamlit run "scripts\show_recommend.py"
 ```
