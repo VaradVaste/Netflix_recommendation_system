@@ -1,5 +1,10 @@
 # ****Netflix Shows Recommendation system****
 
+<div align="center">
+  <img src="Demo/poster.jpg" alt="workflow" width="70%">
+</div>
+
+
   Recommendation systems are becoming extensively important in this extremely fast moving world. People are short on time with multitudinous task they need to accompolish in limited time.
   Therefore, recommendation systems are important as they helps them to make right choices, without spending much time on research.
   
@@ -30,6 +35,12 @@
   # ****About This Project****
 
   ### Demo:
+  
+<div align="center">
+  <img src="Demo/1.png" alt="workflow" width="70%">
+  <img src="Demo/2.png" alt="workflow" width="70%">
+  <img src="Demo/3.png" alt="workflow" width="70%">
+</div>
 
 ---
   ## ****Concepts****: 
