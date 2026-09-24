@@ -87,10 +87,3 @@ if st.button("RECOMMEND"):
             """,
             unsafe_allow_html=True
         )
-
-
-
-
-
-
-api_key = "5d0cfc4f759444dcddde01b945793374"
